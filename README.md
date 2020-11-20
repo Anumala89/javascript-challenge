@@ -1,6 +1,6 @@
 # javascript-challenge
 
-Create a table based upon a dataet and allow users to filter the table data for specific values
+Create a table based upon a dataset and allow users to filter the table data for specific values
 
 ## Automatic Table and Date Search
 
