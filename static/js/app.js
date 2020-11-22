@@ -46,7 +46,7 @@ function runEnter() {
   console.log(filteredData);
 
   // select the tbody element
-  //var tbody = d3.selectAll("tbody");
+  var tbody = d3.select("tbody");
 
   tbody.html("");
 
