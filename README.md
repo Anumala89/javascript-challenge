@@ -16,3 +16,8 @@ Create a table based upon a dataset and allow users to filter the table data for
 1.Complete all of level 1 criteria.
 
 2.Using multiple input tags and/or select dropdowns, write JavaScript code so the user can set multiple filters and search for UFO sightings using the following criteria based on the table columns (date/time, city, state, country, shape).
+
+
+## Link to the website 
+
+https://anumala89.github.io/javascript-challenge/
